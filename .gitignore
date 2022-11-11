@@ -7,3 +7,7 @@ CMakeCache.txt
 CMakeLists.txt.user
 compile_commands.json
 Makefile
+.vscode
+bin
+build
+.cache

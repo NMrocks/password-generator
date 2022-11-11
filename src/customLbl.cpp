@@ -5,6 +5,5 @@
 
 void CustomLbl::setInt(int n)
 {
-
     this->setText(QString().setNum(n));
 }
